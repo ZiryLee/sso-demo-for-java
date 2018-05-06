@@ -2,7 +2,7 @@
 
 [![](https://i.loli.net/2018/05/06/5aeeb3f76e521.png)](https://i.loli.net/2018/05/06/5aeeb3f76e521.png)
 
-- 
+<br>
 
 ## 二、实现简介
 
@@ -24,3 +24,4 @@
 5. 校验sso-client令牌有效性
 6. 系统注册
 7. 接收sso-client注销请求，注销所有会话
+
